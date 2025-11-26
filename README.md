@@ -215,7 +215,7 @@ Dari analisis tersebut, diperoleh beberapa wawasan umum:
 
 1. **Pekerjaan Analis Data Bergaji Tinggi:** Pekerjaan dengan gaji tertinggi untuk analis data yang memungkinkan kerja jarak jauh menawarkan beragam gaji, dengan gaji tertinggi sebesar $650.0001
 
-2. **Skills untuk Pekerjaan Bergaji Tinggi:** Pekerjaan analis data bergaji tinggi membutuhkan keahlian tingkat lanjut dalam 50L, yang menunjukkan bahwa ini merupakan keterampilan penting untuk mendapatkan gaji tinggi.
+2. **Skills untuk Pekerjaan Bergaji Tinggi:** Pekerjaan analis data bergaji tinggi membutuhkan keahlian tingkat lanjut, yang menunjukkan bahwa ini merupakan keterampilan penting untuk mendapatkan gaji tinggi.
 
 3. **Skills yang Paling Banyak Diminati:** SQL juga merupakan keterampilan yang paling banyak dicari di pasar kerja analis data, sehingga menjadikannya penting bagi para pencari kerja.
 
