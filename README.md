@@ -58,7 +58,7 @@ Berikut rincian pekerjaan analis data teratas pada tahun 2023:
 
 **Variasi Jabatan:** Terdapat keragaman yang tinggi dalam jabatan, dari Analis Data hingga Direktur Analisis, yang mencerminkan beragam peran dan spesialisasi dalam analisis data.
 
-![Top Paying Roles](assets\1.top_paying_data_analyst.png)
+![Top Paying Roles](assets/1.top_paying_data_analyst.png)
 
 Grafik batang yang memvisualisasikan gaji untuk 10 analis data dengan gaji tertinggi.
 
@@ -96,7 +96,7 @@ Berikut rincian keterampilan yang paling diminati untuk 10 pekerjaan analis data
 
 **Tableau** juga sangat dicari, dengan angka 6 yang dicetak tebal. Keterampilan lain seperti R, Snowflake, Pandas, dan Excel menunjukkan tingkat permintaan yang bervariasi.
 
-![Top skill count Roles](assets\2.top_paying_job_skill.png)
+![Top skill count Roles](assets/2.top_paying_job_skill.png)
 
 Grafik batang yang memvisualisasikan jumlah keterampilan untuk 10 pekerjaan dengan bayaran tertinggi bagi analis data.
 
